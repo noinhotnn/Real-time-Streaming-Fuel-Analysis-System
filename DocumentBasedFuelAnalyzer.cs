@@ -5,8 +5,7 @@ using System.Linq;
 namespace FuelAnalysisSystem.DocumentBased
 {
     /// <summary>
-    /// HỆ THỐNG PHÂN TÍCH NHIÊN LIỆU THEO TÀI LIỆU
-    /// Dựa trên: Báo_cáo_ghi_nhận_cuốc_đổ_hút_-_New.mht
+    /// HỆ THỐNG PHÂN TÍCH NHIÊN LIỆU THEO TÀI LIỆU    
     /// </summary>
     public class DocumentBasedFuelAnalyzer
     {
